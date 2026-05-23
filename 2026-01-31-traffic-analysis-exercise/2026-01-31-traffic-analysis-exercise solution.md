@@ -126,3 +126,6 @@ Both methods returned the same result.
 
 - The `.su` TLD (Soviet Union ccTLD) is commonly abused by threat actors due to lax registration oversight — a useful indicator when triaging unfamiliar domains.
 - Lumma Stealer is an infostealer sold as MaaS (Malware-as-a-Service) targeting browser credentials, crypto wallets, and session tokens.
+
+Find the file here:
+https://drive.google.com/drive/folders/1p--wEpMxvZrXWwnjezVCFZyNkT1C-XcI?usp=drive_link
